@@ -7,8 +7,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Bacon",
-            url: "https://github.com/miniclip/bacon-ios/releases/download/5.2.1/Bacon-5.2.1.xcframework.zip",
-            checksum: "3f371b4c5d7465e4a914b06562d4902ecce686668fdca97ce538e54189641be2"
+            url: "https://github.com/miniclip/bacon-ios/releases/download/5.3.0/Bacon-5.3.0.xcframework.zip",
+            checksum: "7fa2b84043a6602ba7806436a9d804100fe180ecf9cb7e165bc8d7b6d8cc61a5"
         )
     ]
 )
